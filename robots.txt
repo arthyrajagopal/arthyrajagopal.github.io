@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://arthyrajagopal.github.io/sitemap.xml
